@@ -235,8 +235,10 @@ span.line {
         .swiper_character .card .info h3 i {
           font-style: normal;
           font-size: 1.4rem; }
-          .swiper_character .card .info h3 i::before {
-            content: 'CV：'; }
+          .swiper_character .card .info h3 #va-jp::before {
+            content: 'JP VA：'; }
+            .swiper_character .card .info h3 #va-en::before {
+              content: 'EN VA：'; }
       .swiper_character .card .info p {
         padding: 2rem 1.5rem 1em; }
 
