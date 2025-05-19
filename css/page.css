@@ -66,7 +66,7 @@ body.page main {
   background: url("../img/tit/bg_tit01.png") center/clamp(25rem, 90%, 45rem) auto no-repeat;
   min-height: 16rem; }
   .tit01 img {
-    width: 14.6rem;
+    width: 25rem;
     height: auto; }
 
 .tit02 {
